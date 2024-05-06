@@ -47,7 +47,7 @@ public class main {
                 };
                 //si la opcion es igual a salir, entonces
                 if (opcion.equalsIgnoreCase("salir")){
-                    System.out.println("Sakiendo de la aplicacion");
+                    System.out.println("Saliendo de la aplicacion");
                     break;
                 }
 
