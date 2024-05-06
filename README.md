@@ -1,3 +1,5 @@
+
+
 Conversor de monedas locales a USD
 Uso:
 
@@ -17,3 +19,18 @@ Uso:
 
 ![capturaSalidaPrograma](https://github.com/MatyGonza/Alura_challenge_conversor_de_monedas/assets/137738911/2e572f2e-9d6e-4f68-bc5e-079f1192ed10)
 
+
+
+
+*Tecnologias utilizadas:
+*java
+*jdk17
+*git
+*github
+*trello
+*consumo de api
+
+
+*License
+*Conversor de Monedas is MIT licensed
+*the Conversor de monedas documentation is Creative Commons licensed.
